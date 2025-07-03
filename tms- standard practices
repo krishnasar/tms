@@ -1,12 +1,17 @@
 1. Purchase the stock in bulk when its value is low. 
 2. For daily transaction, purchase the stock when it the below the Opening value and sell it when price is above the Opening value. 
 3. For Weekly transaction, 
-when the stock price is 300 purchase 500 stock, 
+when the stock price is 300 purchase 500 stock.
 when the stock price is 295 purchase 500 stock. 
-When the stock price is 290 purchase 1000 stock 
+When the stock price is 290 purchase 1000 stock.
 when the stock price is 285 purchase 1000 stock.
-when the stock price is 280 purchase 2000 stock. 
+when the stock price is 280 purchase 2000 stock.
 
 Sell the stock if the purchasing price and selling price difference is Rs 10.
+
+
+
+
+
 
 
