@@ -7,6 +7,6 @@ When the stock price is 290 purchase 1000 stock
 when the stock price is 285 purchase 1000 stock.
 when the stock price is 280 purchase 2000 stock. 
 
-Sell the stock if the price difference is Rs 10. 
+Sell the stock if the purchasing price and selling price difference is Rs 10.
 
 
