@@ -10,6 +10,19 @@ when the stock price is 280 purchase 2000 stock.
 Sell the stock if the purchasing price and selling price difference is Rs 10.
 
 
+Test Case Scenerio: 
+
+OHLC
+0 - Open 
+H - High 
+L - Low
+C - Close 
+
+Open prices is the highest prices of the day.  - You should end up buying the stock. 
+Open prices is the lowest prices of the day.  - You should end up selling the stock 
+Prices varies between Open prices and Low prices - This occurs more freequently. ( Buy at the minimu and Sell at the maximum price) 
+
+
 
 
 
