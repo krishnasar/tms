@@ -23,6 +23,17 @@ Open prices is the lowest prices of the day.  - You should end up selling the st
 Prices varies between Open prices and Low prices - This occurs more freequently. ( Buy at the minimu and Sell at the maximum price) 
 
 
+Standard Practices: 
+When the opening is too high Sell the socks and purchase it a the low. 
+When the opening is too low purchase the stocks and sell it at high price. 
+When the opening is in between purchase the stock at low and sell at high price. 
+
+Note: you need to monitor history of the OHLC to determine weather the opening is too high , too low or is in average. 
+
+
+
+
+
 
 
 
