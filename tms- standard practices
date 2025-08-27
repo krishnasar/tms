@@ -70,6 +70,7 @@ Note:
 
 -When the stock price is increasing after the 1:00 pm , Then sell the stock tomorrow morning. 
 -When the stock price is decreasing after the 1:00 pm , then purchase the stock tomorrow morning.
+-If the stock price increase by 5
 
 
 
