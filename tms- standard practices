@@ -70,7 +70,7 @@ Note:
 
 -When the stock price is increasing after the 1:00 pm , Then sell the stock tomorrow morning. Stock prices will definately at yesterday pick price or increasing next morning. 
 -When the stock price is decreasing after the 1:00 pm , then purchase the stock tomorrow morning. Stock price will definately at yesterday low price or decreasing next morning. 
--If the stock price increase by 5
+-When the stock price is at the middle after the 1:00 pm, You should buy at the minimum price and sell at the maximum price or do no trading. 
 
 
 
